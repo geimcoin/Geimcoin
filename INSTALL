@@ -1,0 +1,9 @@
+Building geimcoin
+
+See doc/readme-qt.rst for instructions on building geimcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of geimcoin.
+
+See doc/build-*.txt for instructions on building geimcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of geimcoin.
